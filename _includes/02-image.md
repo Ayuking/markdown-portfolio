@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of C/2020 F3 NEOWISE](https://mmbiz.qpic.cn/sz_mmbiz_jpg/qVLuR9w8Ejvso4ibmicKZ046vVJQialtR4YhkCNxdQibKCIt1qdOqm3JyOlMZPjG3MkDdLachwbIdJRAYXt3M9ia0Jw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
